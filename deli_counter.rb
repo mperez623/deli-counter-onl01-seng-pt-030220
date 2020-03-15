@@ -26,3 +26,5 @@ def now_serving(names)
     puts name.shift 
     
   end
+  
+end
